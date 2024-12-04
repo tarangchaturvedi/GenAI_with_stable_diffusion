@@ -20,4 +20,4 @@ Before running the project, ensure you have the following dependencies installed
 - Hugging Face Transformers
 - Additional dependencies (listed in `requirements.txt`)
 
-### Datasets and model weights are obtained from are obtained https://github.com/shadow2496/VITON-HD?tab=readme-ov-file
+- **Datasets and model weights** are obtained from are obtained https://github.com/shadow2496/VITON-HD?tab=readme-ov-file
